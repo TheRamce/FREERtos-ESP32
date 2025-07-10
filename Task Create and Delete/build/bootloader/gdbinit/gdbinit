@@ -1,0 +1,2 @@
+source C:/Users/yetis/esp/v5.5/Example1/hello_world/build/bootloader/gdbinit/symbols
+source C:/Users/yetis/esp/v5.5/Example1/hello_world/build/bootloader/gdbinit/connect
